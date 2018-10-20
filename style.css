@@ -1,11 +1,15 @@
 @charset "UTF-8";
 /*less写法*/
-.header {
+.width {
+  /*类名和属性名变量*/
   width: 200px;
-  height: 300px;
+  background: #ff0000;
 }
-.header p {
+.width p {
   font-size: 20px;
+}
+.content {
+  background: #ddd;
 }
 .content ul {
   list-style: none;
@@ -17,6 +21,6 @@
 }
 .content ul li a {
   text-decoration: none;
-  color: #535353;
+  color: #f00;
   font-size: 20px;
 }
