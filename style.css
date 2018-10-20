@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/*less写法*/
+.header {
+  width: 200px;
+  height: 300px;
+}
+.header p {
+  font-size: 20px;
+}
+.content ul {
+  list-style: none;
+}
+.content ul li {
+  height: 25px;
+  line-height: 25px;
+  padding-left: 15px;
+}
+.content ul li a {
+  text-decoration: none;
+  color: #535353;
+  font-size: 20px;
+}
